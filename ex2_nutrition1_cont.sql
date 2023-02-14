@@ -1,3 +1,5 @@
+/*asdasd*/
+
 create database ex_nutrition2; #correção
 
 use ex_nutrition2;
